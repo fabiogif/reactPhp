@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="224ec3a5-05d1-4f7e-8da3-fb1e600e3343" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/react/event-loop" />
+      <path value="$PROJECT_DIR$/vendor/react/stream" />
+      <path value="$PROJECT_DIR$/vendor/evenement/evenement" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/ratchet/rfc6455" />
+      <path value="$PROJECT_DIR$/vendor/react/promise-timer" />
+      <path value="$PROJECT_DIR$/vendor/react/dns" />
+      <path value="$PROJECT_DIR$/vendor/react/cache" />
+      <path value="$PROJECT_DIR$/vendor/react/promise" />
+      <path value="$PROJECT_DIR$/vendor/react/socket" />
+      <path value="$PROJECT_DIR$/vendor/cboden/ratchet" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/php-ds/php-ds" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1m5IoEiejdm8xPCcebL7FZLNJNe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="224ec3a5-05d1-4f7e-8da3-fb1e600e3343" name="Default Changelist" comment="" />
+      <created>1608777197626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608777197626</updated>
+      <workItem from="1608777198722" duration="13028000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="492" y="283" key="#Composer" timestamp="1608777210449">
+      <screen x="0" y="23" width="1366" height="745" />
+    </state>
+    <state x="492" y="283" key="#Composer/0.23.1366.745@0.23.1366.745" timestamp="1608777210449" />
+    <state x="317" y="81" key="#Inspections" timestamp="1608952973737">
+      <screen x="0" y="23" width="1366" height="745" />
+    </state>
+    <state x="317" y="81" key="#Inspections/0.23.1366.745@0.23.1366.745" timestamp="1608952973736" />
+    <state x="492" y="84" key="#com.intellij.ide.util.MemberChooser" timestamp="1608952650301">
+      <screen x="0" y="23" width="1366" height="745" />
+    </state>
+    <state x="492" y="84" key="#com.intellij.ide.util.MemberChooser/0.23.1366.745@0.23.1366.745" timestamp="1608952650301" />
+    <state x="452" y="284" width="461" height="293" key="ComposerInitDialogKey" timestamp="1608779958904">
+      <screen x="0" y="23" width="1366" height="745" />
+    </state>
+    <state x="452" y="284" width="461" height="293" key="ComposerInitDialogKey/0.23.1366.745@0.23.1366.745" timestamp="1608779958904" />
+    <state x="506" y="326" key="NewPhpFileDialog" timestamp="1608952188063">
+      <screen x="0" y="23" width="1366" height="745" />
+    </state>
+    <state x="506" y="326" key="NewPhpFileDialog/0.23.1366.745@0.23.1366.745" timestamp="1608952188063" />
+  </component>
+</project>
