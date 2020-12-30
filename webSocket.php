@@ -23,11 +23,13 @@ $chatComponent = new class implements MessageComponentInterface{
 
     public function onOpen(ConnectionInterface $conn)
     {
+        echo 'Abriu';
         $this->connetions->add($conn);
     }
 
     public function onClose(ConnectionInterface $conn)
     {
+        echo 'Fechou ';
         $this->connetions->remove($conn);
     }
 
